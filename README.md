@@ -7,6 +7,7 @@
 
 ## 社区
 - [freecodecamp](https://medium.freecodecamp.org/)
+- [medium](https://medium.com/)
 
 ## 团队博客
 - [360奇舞团](https://75team.com/post/list)
