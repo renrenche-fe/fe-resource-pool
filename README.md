@@ -13,7 +13,7 @@
 - [360奇舞团](https://75team.com/post/list)
 - [腾讯AlloyTeam](http://www.alloyteam.com/)
 - [腾讯ISUX](https://isux.tencent.com/)
-- [淘宝UED](http://ued.taobao.org/blog/)
+- [淘宝FED](http://taobaofed.org/)
 
 ## 浏览器插件
 - [掘金](https://juejin.im/extension)
